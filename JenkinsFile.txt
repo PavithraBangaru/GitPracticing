@@ -3,3 +3,5 @@ The jenkins file created.
 this is second line.
 
 this is third line.
+
+Something added to check git conflict.
