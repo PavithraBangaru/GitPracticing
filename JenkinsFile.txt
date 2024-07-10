@@ -1,4 +1,5 @@
 The jenkins file created.
+Git conflict demo on same file but diff line i.e in second line.
 
 this is second line.
 
