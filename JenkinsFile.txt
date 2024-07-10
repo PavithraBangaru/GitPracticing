@@ -1,4 +1,8 @@
+
 The jenkins file created.Demo file changed
+
+g The jenkins file created.Jenkins file updated to check git conflicts on same line.
+
 Git conflict demo on same file but diff line i.e in second line.
 
 this is second line.
