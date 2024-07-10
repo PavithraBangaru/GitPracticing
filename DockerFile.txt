@@ -1,2 +1,3 @@
 This is Docker file.
+Added something to practice on Git conflicts.
 
