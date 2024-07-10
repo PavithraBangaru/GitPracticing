@@ -5,3 +5,4 @@ this is second line.
 this is third line.
 
 Something added to check git conflict.
+Git conflict demo on same file but diff line.
